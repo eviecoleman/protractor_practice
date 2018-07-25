@@ -1,0 +1,22 @@
+{
+  "name": "selenium_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eviecoleman/protractor_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eviecoleman/protractor_practice/issues"
+  },
+  "homepage": "https://github.com/eviecoleman/protractor_practice#readme",
+  "dependencies": {
+    "protractor": "^5.4.0"
+  }
+}
